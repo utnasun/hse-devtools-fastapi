@@ -6,5 +6,5 @@ pydantic
 pydantic_core
 sniffio
 starlette
-typing_extension
-uvicorn 
+typing_extensions
+uvicorn
